@@ -1,0 +1,40 @@
+user_type,username,name,email,school_type,academic_level,current_school
+trial-user,test0101,Test User 0101,test0101@quizzy.sg,Pre-school,SEC4,My Current School
+teacher,test0102,Test User 0102,test0102@quizzy.sg,Primary School,SEC4,My Current School
+trial-user,test0103,Test User 0103,test0103@quizzy.sg,Secondary School,SEC4,My Current School
+student,test0104,Test User 0104,test0104@quizzy.sg,Junior College,SEC4,My Current School
+trial-user,test0105,Test User 0105,test0105@quizzy.sg,Polytechnic,K1,My Current School
+teacher,test0106,Test User 0106,test0106@quizzy.sg,International School,K2,My Current School
+trial-user,test0107,Test User 0107,test0107@quizzy.sg,Pre-school,P1,My Current School
+student,test0108,Test User 0108,test0108@quizzy.sg,Primary School,P2,My Current School
+trial-user,test0109,Test User 0109,test0109@quizzy.sg,Secondary School,P3,My Current School
+teacher,test0110,Test User 0110,test0110@quizzy.sg,Junior College,P4,My Current School
+trial-user,test0111,Test User 0111,test0111@quizzy.sg,Polytechnic,P5,My Current School
+student,test0112,Test User 0112,test0112@quizzy.sg,International School,P6,My Current School
+trial-user,test0113,Test User 0113,test0113@quizzy.sg,Pre-school,SEC1,My Current School
+teacher,test0114,Test User 0114,test0114@quizzy.sg,Pre-school,SEC2,My Current School
+trial-user,test0115,Test User 0115,test0115@quizzy.sg,Primary School,SEC3,My Current School
+student,test0116,Test User 0116,test0116@quizzy.sg,Secondary School,SEC4,My Current School
+trial-user,test0117,Test User 0117,test0117@quizzy.sg,Junior College,SEC5,My Current School
+teacher,test0118,Test User 0118,test0118@quizzy.sg,Polytechnic,JC1,My Current School
+trial-user,test0119,Test User 0119,test0119@quizzy.sg,International School,JC2,My Current School
+student,test0120,Test User 0120,test0120@quizzy.sg,Pre-school,POLY,My Current School
+trial-user,test0121,Test User 0121,test0121@quizzy.sg,Primary School,INTERNATIONAL SCHOOL,My Current School
+teacher,test0122,Test User 0122,test0122@quizzy.sg,Primary School,SEC2,My Current School
+trial-user,test0123,Test User 0123,test0123@quizzy.sg,Secondary School,SEC3,My Current School
+student,test0124,Test User 0124,test0124@quizzy.sg,Junior College,SEC4,My Current School
+trial-user,test0125,Test User 0125,test0125@quizzy.sg,Polytechnic,SEC5,My Current School
+teacher,test0126,Test User 0126,test0126@quizzy.sg,International School,JC1,My Current School
+trial-user,test0127,Test User 0127,test0127@quizzy.sg,Pre-school,JC2,My Current School
+student,test0128,Test User 0128,test0128@quizzy.sg,Pre-school,POLY,My Current School
+trial-user,test0129,Test User 0129,test0129@quizzy.sg,Primary School,INTERNATIONAL SCHOOL,My Current School
+teacher,test0130,Test User 0130,test0130@quizzy.sg,Secondary School,SEC4,My Current School
+trial-user,test0131,Test User 0131,test0131@quizzy.sg,Junior College,SEC4,My Current School
+student,test0132,Test User 0132,test0132@quizzy.sg,Primary School,K1,My Current School
+trial-user,test0133,Test User 0133,test0133@quizzy.sg,Secondary School,K2,My Current School
+teacher,test0134,Test User 0134,test0134@quizzy.sg,Junior College,P1,My Current School
+trial-user,test0135,Test User 0135,test0135@quizzy.sg,Polytechnic,P2,My Current School
+student,test0136,Test User 0136,test0136@quizzy.sg,International School,P3,My Current School
+trial-user,test0137,Test User 0137,test0137@quizzy.sg,Pre-school,P4,My Current School
+teacher,test0138,Test User 0138,test0138@quizzy.sg,Pre-school,P5,My Current School
+trial-user,test0139,Test User 0139,test0139@quizzy.sg,Primary School,SEC4,My Current School

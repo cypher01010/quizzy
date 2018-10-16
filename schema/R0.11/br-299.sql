@@ -1,0 +1,1 @@
+ALTER TABLE `set_puzzle_score` ADD `completed` TINYINT(1) NOT NULL DEFAULT '0' ;

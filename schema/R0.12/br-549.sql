@@ -1,0 +1,1 @@
+ALTER TABLE `user` CHANGE `email_alert` `email_alert` ENUM('yes','no') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'yes';

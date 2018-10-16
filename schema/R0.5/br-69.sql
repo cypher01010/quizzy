@@ -1,0 +1,1 @@
+ALTER TABLE `user` ADD `recovery_key` VARCHAR(128) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL , ADD `email_alert` ENUM('yes','no') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'yes' ;

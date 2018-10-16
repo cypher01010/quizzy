@@ -1,0 +1,1 @@
+ALTER TABLE `user_folder` CHANGE `status` `status` ENUM('active','inactive','validation','expired') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'validation';

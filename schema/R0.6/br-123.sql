@@ -1,0 +1,4 @@
+ALTER TABLE `user` CHANGE `type` `type` ENUM('trial-user','student','teacher','admin','super-admin') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'trial-user';
+
+
+INSERT INTO `user` (`id`, `username`, `password`, `hash`, `email`, `birth_day`, `date_created`, `date_updated`, `date_activated`, `online`, `activation_key`, `type`, `profile_picture`, `upgraded`, `status`, `recovery_key`, `email_alert`) VALUES (NULL, 'superadmin', 'ae3ebd006a57bbc751915a114df78857e17f3e8b', 'f24a3b36f93e90ad3fdbb1e36300', 'superadmin@quizzy.sg', '2015-01-29 00:00:00', '2015-01-29 00:00:00', NULL, '2015-01-29 00:00:00', 'no', NULL, 'super-admin', '/images/profile/user.png', 'no', 'active', NULL, 'no');

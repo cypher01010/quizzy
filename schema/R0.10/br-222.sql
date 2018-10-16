@@ -1,0 +1,1 @@
+INSERT INTO `page_content` (`id`, `keyword`, `content`) VALUES (NULL, 'site.maintainance', 'We are under maintenance!');

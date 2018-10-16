@@ -1,0 +1,2 @@
+UPDATE `set_language` SET `name` = 'Chinese (Simplified)', `keyword` = 'zh-CN' WHERE `set_language`.`id` = 2; 
+UPDATE `set_language` SET `name` = 'Chinese (traditional)', `keyword` = 'zh-TW' WHERE `set_language`.`id` = 3;

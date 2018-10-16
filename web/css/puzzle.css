@@ -1,0 +1,102 @@
+
+/* Style for grid cells */
+.rf-tgrid {
+	
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	margin: 1px;
+	padding: 10px;
+    border: 1px solid #24afee;
+	vertical-align: middle;
+	text-align: center;
+
+}
+
+/* Style for the grid */
+.rf-tablestyle {
+	border: 1px solid #24afee;
+	background-color: #fff;
+	cursor: pointer;
+	width: inherit;
+}
+
+/* Style for the div containing the grid */
+#rf-searchgamecontainer {
+	float: left;
+	width: 100%;
+}
+
+/* Style for the div containing the word list */
+#rf-wordcontainer {
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	float :left;
+	padding-right: 50px; 
+	cursor: default;
+	margin : 1em 1em 1em 0;
+	
+	border: 2px solid;
+	border-color: gold;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;	
+	
+	cursor: pointer;	
+}
+
+/* Style for the words that have been found */
+.rf-foundword {
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	text-decoration : line-through;
+	color : lightgray;
+	font-style : italic;
+
+}
+
+#rf-tablegrid .rf-armed {
+/*	background: lightcyan;*/
+}
+
+#rf-tablegrid .rf-highlight {
+	background: red;
+}
+
+
+#rf-tablegrid .rf-glowing {
+	background: #29b3e7;
+		
+}
+
+#rf-tablegrid .rf-selected {
+	background: #24afee;
+}
+
+/* style for words that didn't make it on the grid */
+.rf-pfalse {
+	color: gray;
+	visibility: hidden; 
+}
+
+
+
+
+
+.puzzle-info {
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	cursor: default;
+	margin : 0px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 0px;
+}
+.list-puzzle-info {
+	background: #eeeeee;
+	padding: 6px;
+	margin-bottom: 3px;
+}
+
+.puzzle-quiz-display {
+	display: none;
+}

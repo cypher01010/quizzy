@@ -1,0 +1,1 @@
+INSERT INTO `page_content` (`id`, `keyword`, `content`) VALUES (NULL, 'login', 'Login is currently disable');

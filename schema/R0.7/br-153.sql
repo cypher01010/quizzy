@@ -1,0 +1,1 @@
+ALTER TABLE `class` DROP `school_id`;
